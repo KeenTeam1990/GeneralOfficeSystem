@@ -143,3 +143,5 @@ TinyShop-UniApp:https://github.com/stavyan/TinyShop-UniApp
 ### 联系我们
 
 各位同学觉得有帮助的欢迎给个star，我会继续优化代码，如果有不懂的地方可以[邮箱](Keen_Team@163.com)
+
+![输入图片说明](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-3a946632-00e7-41c9-98f5-6ca43b9ac081/7de5b67b-23ed-49ee-aa46-4601c3a58247.jpg "屏幕截图.png")
