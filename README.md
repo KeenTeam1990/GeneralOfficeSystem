@@ -135,13 +135,9 @@
 >感谢开发过程中小明和简言对我的技术支持；感谢以下的项目，排名不分先后
 
 Vuejs： https://github.com/vuejs/vue
-
 uni-app： https://uniapp.dcloud.io/
-
 mix-mall: https://ext.dcloud.net.cn/plugin?id=200
-
 ColorUI: https://github.com/weilanwl/ColorUI
-
 TinyShop-UniApp:https://github.com/stavyan/TinyShop-UniApp
 
 ### 联系我们
